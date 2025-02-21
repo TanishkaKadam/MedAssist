@@ -86,7 +86,7 @@ Integrate more APIs for additional healthcare services.
 Optimize database management for faster response times.
 
 
-#3 License
+## License
 
 This project is open-source and available under the MIT License.
 
