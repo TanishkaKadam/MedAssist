@@ -1,1 +1,3 @@
-# MedAssist
+# MedAssist : Comprehensive Health Assistance Platform
+
+
